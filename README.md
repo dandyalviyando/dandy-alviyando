@@ -1,2 +1,2 @@
 # dandy-alviyando
-Latihan Inosoft
+Latihan Inosoft 1
